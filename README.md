@@ -13,7 +13,7 @@
   margin: auto;
 }
 ```
-1. Inline centering can be done within the inline div tag with ```margin: auto;```.
+2. Inline centering can be done within the inline div tag with ```margin: auto;```.
 ```
 .block-centering {
   background-color: red;
